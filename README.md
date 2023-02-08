@@ -1,4 +1,6 @@
 ### Hi, i'm Heliton Wiggers 👋
+Quality Assurance Engineer
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helitonwiggers/)
 
 ![HelitonWiggers GitHub stats](https://github-readme-stats.vercel.app/api?username=HelitonWiggers&show_icons=true&theme=merko)
