@@ -3,10 +3,6 @@ Quality Assurance Engineer
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helitonwiggers/)
 
-![HelitonWiggers GitHub stats](https://github-readme-stats.vercel.app/api?username=HelitonWiggers&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelitonWiggers&layout=compact)](https://github.com/HelitonWiggers/github-readme-stats)
-
 ### Technologies:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
