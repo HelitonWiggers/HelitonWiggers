@@ -9,7 +9,7 @@ Quality Assurance Engineer
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-v8.0.0-yellow)
+[![Appium](./images/image.webp "appium")](./images/image.webp)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 
