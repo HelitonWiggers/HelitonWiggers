@@ -11,7 +11,7 @@ Quality Assurance Engineer
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 <a href="https://appium.io/" rel="nofollow"> <img alt="appium" height="40" width="40" src="https://camo.githubusercontent.com/f0076eb283898f7e44436ac3ee3b936162a46eb4be3cc84ecb1aa91241b0ff49/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3337322f3637342f706e672d7472616e73706172656e742d61707069756d2d746573742d6175746f6d6174696f6e2d736f6674776172652d74657374696e672d73656c656e69756d2d63616c61626173682d707572706c652d76696f6c65742d746578742d7468756d626e61696c2e706e67" data-canonical-src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png" style="max-width: 100%;">
 </a>
-![Cypress](https://static-00.iconduck.com/assets.00/cypress-icon-256x256-mza5xipb.png)
+![Cypress](https://static-00.iconduck.com/assets.00/cypress-icon-64x64-mza5xipb.png)
 
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
